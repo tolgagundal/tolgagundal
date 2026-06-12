@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Tolga 👋
 
-<!--
-**tolgagundal/tolgagundal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Data Analytics Master's Graduate based in Berlin, Germany
 
-Here are some ideas to get you started:
+Data-driven professional with experience in operations, reporting, customer success, and data quality. Skilled in SQL, Excel, CRM systems, and cross-functional collaboration to support business growth and data-driven decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently expanding my expertise in Data Analytics through hands-on projects involving Python, SQL, statistics, data visualization, and business intelligence tools.
+
+## Skills
+
+* SQL
+* Python
+* Excel
+* Power BI
+* Data Analysis
+* Data Visualization
+* CRM Systems
+* Reporting & Analytics
+
+## Current Focus
+
+* Data Analytics
+* Business Intelligence
+* Data Quality
+* Process Improvement
+* Machine Learning Fundamentals
+
+## Projects
+
+* Bitcoin Price Analysis
+* HR Analytics Dashboard
+* Customer Analytics
+* Data Visualization Projects
+
+## Connect With Me
+
+* LinkedIn: linkedin.com/in/tolgagundal
+* GitHub: github.com/tolgagundal
