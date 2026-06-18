@@ -27,7 +27,8 @@ Currently expanding my expertise in Data Analytics through hands-on projects inv
 
 ## Projects
 
-* Bitcoin Price Analysis
+* Movie Rating Classification with PySpark and Scikit-learn
+* Plant Leaf Disease Classifier (Deep Learning Project)  
 * HR Analytics Dashboard
 * Customer Analytics
 * Data Visualization Projects
