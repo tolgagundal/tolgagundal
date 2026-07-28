@@ -20,6 +20,7 @@ Currently expanding my expertise in Data Analytics through hands-on projects inv
 ## Current Focus
 
 * Data Analytics
+* People Analytics
 * Business Intelligence
 * Data Quality
 * Process Improvement
@@ -27,6 +28,7 @@ Currently expanding my expertise in Data Analytics through hands-on projects inv
 
 ## Projects
 
+* Customer Engagement Journey with Gamification
 * Movie Rating Classification with PySpark and Scikit-learn
 * Plant Leaf Disease Classifier (Deep Learning Project)  
 * HR Analytics Dashboard
