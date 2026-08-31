@@ -8,35 +8,37 @@ Currently expanding my expertise in Data Analytics through hands-on projects inv
 
 ## Skills
 
-* SQL
-* Python
-* Excel
-* Power BI
-* Data Analysis
-* Data Visualization
 * CRM Systems (MS Dynamics CRM, Salesforce)
+* LMS Administration
 * Stakeholder Management
 * Process Improvement
 * Reporting & Analytics
+* MS SQL, Big Query
+* Python
+* MS Excel, Spreadsheet
+* Data Analysis
+* Data Visualization
+* Tableau, Power BI
 
 ## Current Focus
 
-* Data Analytics
-* People Analytics
+* People & Operation
+* Employee Support
+* HR Analytics
 * Business Intelligence
 * Customer Success
-* Data Quality
+* Data Quality & Analysis
 * Process Improvement
 * Machine Learning Fundamentals
 
 ## Projects
 
-* Customer Engagement Journey with Gamification
-* Movie Rating Classification with PySpark and Scikit-learn
-* Plant Leaf Disease Classifier (Deep Learning Project)  
-* HR Analytics Dashboard
-* Customer Analytics
-* Data Visualization Projects
+* Customer Engagement Journey with Gamification @Enpara Bank
+* Movie Rating Classification with PySpark and Scikit-learn @Master Project
+* Plant Leaf Disease Classifier (Deep Learning Project) @Master Project
+* HR Analytics Dashboard @Master Project
+* Customer Analytics @Enocta LMS
+* Data Visualization Projects @Master Project
 
 ## Connect With Me
 
