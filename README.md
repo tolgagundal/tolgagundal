@@ -2,7 +2,7 @@
 
 🎓 Data Analytics Master's Graduate based in Berlin, Germany
 
-Data-driven professional with experience in operations, reporting, employee support, customer success, account management, and data quality. Skilled in SQL, Excel, CRM systems, stakeholder management, and cross-functional collaboration to support business growth and data-driven decision-making.
+Data-driven professional with experience in operations, reporting, employee support, customer success, account management, and AI data quality. Skilled in SQL, Excel, CRM systems, stakeholder management, and cross-functional collaboration to support business growth and data-driven decision-making.
 
 Currently expanding my expertise in Data Analytics through hands-on projects involving Python, SQL, statistics, data visualization, and business intelligence tools.
 
@@ -15,6 +15,7 @@ Currently expanding my expertise in Data Analytics through hands-on projects inv
 * Reporting & Analytics
 * MS SQL, Big Query
 * Python
+* AI Systems
 * MS Excel, Spreadsheet
 * Data Analysis
 * Data Visualization
@@ -27,7 +28,7 @@ Currently expanding my expertise in Data Analytics through hands-on projects inv
 * HR Analytics
 * Business Intelligence
 * Customer Success
-* Data Quality & Analysis
+* AI Data Quality & Analysis
 * Process Improvement
 * Machine Learning Fundamentals
 
